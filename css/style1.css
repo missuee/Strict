@@ -266,6 +266,20 @@ section.nav_gallery {
     background-position: center;
     float: left;
 }
+.nav_contacts h1 {
+  text-align: center;
+  font-size: 40px;
+    color: #fff;
+    margin-bottom: 12px;
+    font-weight: 400;
+}
+.nav_contacts p {
+  text-align: center;
+    padding: 0px 35px 75px;
+    color: #999;
+    font-size: 15px;
+    line-height: 22px;
+}
 
 .nav_contacts form {
     margin: 0 auto;
